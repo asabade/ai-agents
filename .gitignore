@@ -1,0 +1,30 @@
+# IDE configurations
+.idea/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Egg info and distribution files
+*.egg-info/
+dist/
+build/
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Examples and miscellaneous
+examples/
+
+# Specific files
+*.log
+.DS_Store
+
+streamlit/secrets.toml
+notebooks/ai.txt
+notebooks/db/
+
+*notebooks/chroma*
+notebooks/blog-posts/

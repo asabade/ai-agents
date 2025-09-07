@@ -1,6 +1,3 @@
-
-# AI Agents A-Z
-
 This repository contains code for Modern Automated AI Agents: Building Agentic AI to Perform Complex Tasks
 
 Frameworks like CrewAI, LangChain, and AutoGen as well as building agents from scratch using powerful prompt engineering techniques. The course emphasizes practical application, guiding participants through hands-on exercises to implement and deploy AI agents, evaluate their performance, and iterate on their designs.
